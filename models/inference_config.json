@@ -1,0 +1,7 @@
+{
+  "decision_threshold": 0.39999999999999997,
+  "feature_dim": 104,
+  "framework": "tensorflow-keras",
+  "tf_version": "2.21.0",
+  "training_seed": 42
+}

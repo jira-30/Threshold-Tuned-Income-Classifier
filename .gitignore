@@ -1,0 +1,20 @@
+# Byte-compiled
+__pycache__/
+*.py[cod]
+
+# Environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Mac
+.DS_Store
+
+# Trained artifacts kept in repo for reproducibility, but raw cached data ignored
+data/*.csv
+data/*.data
+data/*.test
+!data/README.md
