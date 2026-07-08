@@ -1,6 +1,6 @@
 # Predicting High Income from Census Data — Deep Learning Project
 
-**Author:** Namrata Raghavan
+**Author:** Namrata Raghavan, Shruthi Ravi
 **Dataset:** UCI Adult Census Income (Becker & Kohavi, 1996)
 **Task:** Binary classification — predict whether an adult earns more than $50K / year
 **Framework:** TensorFlow / Keras (with scikit-learn baselines)
